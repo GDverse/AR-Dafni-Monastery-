@@ -11,7 +11,7 @@ Dafni Monastery AR is an Augmented Reality (AR) application that brings the hist
 ✅ Optimized for mobile devices
 
 📥 Download
-You can download the latest release of the AR application here.
+You can download the latest release of the AR application here https://gdverse.itch.io/ar-moni-dafniou
 
 📖 How to Use
 Download & Install – Get the latest APK or app version.
